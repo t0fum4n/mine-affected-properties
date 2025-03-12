@@ -47,6 +47,23 @@ This isn’t just a **personal issue**—it’s a **community-wide problem** tha
 
 ---
 
+## Legal Precedent in Other States
+
+Chandler is **not the first place to deal with mine subsidence issues**, and other states have already taken steps to protect homeowners.
+
+### 🏛️ Pennsylvania’s Mine Subsidence Disclosure Law
+**Pennsylvania has long required home sellers to disclose whether a property is located on or near a mine.** Under Pennsylvania law:  
+
+- **Sellers are required to disclose** whether a property is on a known mine subsidence area.  
+- **The state maintains records of mine maps** and provides free online tools for buyers to check if their property is at risk.  
+- **Failure to disclose mine subsidence risks** can result in legal action against sellers and real estate agents.  
+
+This legal precedent shows that **mine disclosure laws are both necessary and enforceable**. If Pennsylvania can protect its homebuyers, **why shouldn’t Chandler do the same?**  
+
+Other states with significant mining histories, including **West Virginia and Kentucky**, also have similar regulations requiring disclosure. **Indiana should not lag behind in protecting its residents from the risks of mine-affected properties.**  
+
+---
+
 ## The Ordinance & Disclosure Form
 
 ### 🏛️ **The Ordinance**  
