@@ -1,8 +1,10 @@
 # mine-affected-properties
-This serves as a repository for the documents surrounding the Mine Affected Properties ordinance for Chandler Indiana
+This serves as a repository for the documents surrounding the **Mine-Affected Properties Ordinance** for Chandler, Indiana.
 
-# WHY THIS ORDINANCE MATTERS
-## The Need for the Chandler Mine-Affected Property Disclosure Ordinance
+## WHY THIS ORDINANCE MATTERS
+### The Need for the Chandler Mine-Affected Property Disclosure Ordinance
+
+---
 
 ### My Story
 
@@ -42,6 +44,28 @@ This ordinance is about **fairness, transparency, and protection for homebuyers*
 Right now, **Chandler is already dealing with the aftermath of a mine collapse** that damaged homes and displaced residents. The town is **applying for FEMA assistance**, but there’s no guarantee that these homeowners will receive the help they need. Some families **may be forced to walk away from homes they’ve lived in for years**—all because they didn’t know the risks when they first moved in.
 
 This isn’t just a **personal issue**—it’s a **community-wide problem** that must be addressed.
+
+---
+
+## The Ordinance & Disclosure Form
+
+### 🏛️ **The Ordinance**  
+The full **Mine-Affected Properties Ordinance** can be found here:  
+[**Mine-Affected Properties Ordinance**](https://github.com/t0fum4n/mine-affected-properties/blob/main/mine-affected-properties-ordinance.md)
+
+This ordinance establishes **Chapter 156** in Chandler’s municipal code and requires sellers to **disclose mine risks upfront**. It also sets penalties for non-disclosure and lays out the **formal complaint process** for buyers.  
+
+### 📄 **The Disclosure Form**  
+The **Mine-Affected Property Disclosure Form** is available here:  
+[**Mine-Affected Property Disclosure Form**](https://github.com/t0fum4n/mine-affected-properties/blob/main/mine-affected-property-disclosure-form.md)
+
+Sellers are **required** to provide this form to buyers before closing a sale. The form **documents** whether a property is on or near a mine and includes:  
+- Official verification sources  
+- Known subsidence or structural damage  
+- Any past mitigation efforts  
+- Buyer acknowledgment of the disclosed risks  
+
+By using this form, we **ensure buyers are protected** and are making informed decisions.
 
 ---
 
