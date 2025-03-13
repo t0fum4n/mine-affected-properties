@@ -52,27 +52,27 @@ This isn’t just a **personal issue**—it’s a **community-wide problem** tha
 Chandler is **not the first place to deal with mine subsidence issues**, and other states have already taken steps to protect homeowners.
 
 ### 🏛️ Pennsylvania’s Mine Subsidence Disclosure Law
-**Pennsylvania has long required home sellers to disclose whether a property is located on or near a mine.** Under Pennsylvania law:  
+**Pennsylvania has long required home sellers to disclose whether a property is located on or near a mine.** Under Pennsylvania law:
 
 - **Sellers are required to disclose** whether a property is on a known mine subsidence area.  
 - **The state maintains records of mine maps** and provides free online tools for buyers to check if their property is at risk.  
 - **Failure to disclose mine subsidence risks** can result in legal action against sellers and real estate agents.  
 
-This legal precedent shows that **mine disclosure laws are both necessary and enforceable**. If Pennsylvania can protect its homebuyers, **why shouldn’t Chandler do the same?**  
+This legal precedent shows that **mine disclosure laws are both necessary and enforceable**. If Pennsylvania can protect its homebuyers, **why shouldn’t Chandler do the same?**
 
-Other states with significant mining histories, including **West Virginia and Kentucky**, also have similar regulations requiring disclosure. **Indiana should not lag behind in protecting its residents from the risks of mine-affected properties.**  
+Other states with significant mining histories, including **West Virginia and Kentucky**, also have similar regulations requiring disclosure. **Indiana should not lag behind in protecting its residents from the risks of mine-affected properties.**
 
 ---
 
 ## The Ordinance & Disclosure Form
 
-### 🏛️ **The Ordinance**  
+### 🏛️ **The Ordinance**
 The full **Mine-Affected Properties Ordinance** can be found here:  
 [**Mine-Affected Properties Ordinance**](https://github.com/t0fum4n/mine-affected-properties/blob/main/mine-affected-properties-ordinance.md)
 
-This ordinance establishes **Chapter 156** in Chandler’s municipal code and requires sellers to **disclose mine risks upfront**. It also sets penalties for non-disclosure and lays out the **formal complaint process** for buyers.  
+This ordinance establishes **Chapter 156** in Chandler’s municipal code and requires sellers to **disclose mine risks upfront**. It also sets penalties for non-disclosure and lays out the **formal complaint process** for buyers.
 
-### 📄 **The Disclosure Form**  
+### 📄 **The Disclosure Form**
 The **Mine-Affected Property Disclosure Form** is available here:  
 [**Mine-Affected Property Disclosure Form**](https://github.com/t0fum4n/mine-affected-properties/blob/main/mine-affected-property-disclosure-form.md)
 
@@ -94,11 +94,45 @@ Buying a home should be a **fair and informed process**, not a **gamble with you
 
 By passing this ordinance, we can help ensure that **every homebuyer in Chandler knows exactly what they’re buying** and that **real estate transactions in our town are conducted with honesty and integrity**.
 
-I **love Warrick County, and I’m grateful to be back**. But I will **fight to make sure that no other homeowner has to deal with what my family has had to go through.**  
+I **love Warrick County, and I’m grateful to be back**. But I will **fight to make sure that no other homeowner has to deal with what my family has had to go through.**
 
 ---
 
-**This is why I’m doing this.**  
+**This is why I’m doing this.**
 
 **Tyler Hodges**  
 *March 12, 2025*
+
+---
+
+## How to Contribute
+
+We welcome **feedback, suggestions, and contributions** from anyone interested in improving this ordinance or sharing relevant information about mine-affected properties. Here are some ways you can contribute:
+
+1. **Open an Issue**  
+   - If you notice any errors, omissions, or improvements needed in the ordinance or disclosure form, please [open a GitHub issue](https://github.com/t0fum4n/mine-affected-properties/issues) describing the problem or suggestion.
+   
+2. **Submit a Pull Request (PR)**  
+   - Fork this repository to your own GitHub account.
+   - Create a new branch for your changes, for example: `git checkout -b feature/improve-documentation`.
+   - Make your edits or additions, commit, and push them to your fork.
+   - [Open a pull request](https://github.com/t0fum4n/mine-affected-properties/pulls) to have your changes reviewed and potentially merged.
+
+3. **Share Case Studies & Resources**  
+   - If you have additional **case studies** from other states or **expert resources** on mine subsidence, consider sharing these by creating an issue or pull request so we can add them to the repository.
+
+4. **Spread Awareness**  
+   - Share this repository and the documents with **community groups**, **local representatives**, or **neighbors** who might be affected by mine subsidence.  
+   - The more people understand the risks, the more they can advocate for transparent and fair disclosure laws.
+
+5. **Share Your Story**  
+   - If you have personal experience living on or near a mine-affected property, we encourage you to contribute your story to the `stories` folder!  
+   - See [**How to Use the Story Template**](https://github.com/t0fum4n/mine-affected-properties/blob/main/stories/README.md) for step-by-step instructions on adding your story to this repository.
+
+### Disclaimer
+These documents are **not** a substitute for professional legal advice. If you have concerns about a specific property or legal situation, please consult an attorney or appropriate professional.
+
+---
+
+Thank you for your interest in making **Chandler, Indiana** a safer place for homeowners!  
+We appreciate your support and collaboration.
