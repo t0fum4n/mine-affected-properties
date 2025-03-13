@@ -127,7 +127,7 @@ We welcome **feedback, suggestions, and contributions** from anyone interested i
 
 5. **Share Your Story**  
    - If you have personal experience living on or near a mine-affected property, we encourage you to contribute your story to the `stories` folder!  
-   - See [**How to Use the Story Template**](https://github.com/t0fum4n/mine-affected-properties/blob/main/stories/README.md) for step-by-step instructions on adding your story to this repository.
+   - See [**How to Use the Story Template**](https://github.com/t0fum4n/mine-affected-properties/blob/main/stories/how-to-use-template.md) for step-by-step instructions on adding your story to this repository.
 
 ### Disclaimer
 These documents are **not** a substitute for professional legal advice. If you have concerns about a specific property or legal situation, please consult an attorney or appropriate professional.
