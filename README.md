@@ -136,3 +136,5 @@ These documents are **not** a substitute for professional legal advice. If you h
 
 Thank you for your interest in making **Chandler, Indiana** a safer place for homeowners!  
 We appreciate your support and collaboration.
+
+##This is an added line to test Home Assistant integration.##
